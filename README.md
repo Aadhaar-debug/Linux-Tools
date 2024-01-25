@@ -21,7 +21,7 @@ A brief description of what this project does and who it's for
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key |
+| `api_key` | `string` | **Required**. Your API key |.
 
 #### Get item
 
